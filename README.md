@@ -10,8 +10,9 @@ I'm keen on cybersecurity, software developement and coffee brewing ☕️
 
 My technical skills:
 
-* Programming: C, C++, Java, Python, OCaml, shell scripting
+* Programming: C, C++, Java, Python, Dart, OCaml, shell scripting
 * Web: NodeJS, JS, VueJS, PHP, SQL, UX, UI, CSS, HTML
+* Mobile: Flutter
 * DevOps: Docker, Kubernetes, Minikube
 * Algorithmics, Data Structures, Network science, Crypthography, Blockchain
 
