@@ -17,4 +17,4 @@ My technical skills:
 
 I speak English 🇬🇧, French 🇫🇷, Russian 🇷🇺, German 🇩🇪, Italian 🇮🇹, and Spanish 🇪🇸
 
-Contact me: <a href="https://www.linkedin.com/in/violettagoldman/"><img src="https://github.com/violettagoldman/violettagoldman/blob/main/icons/linkedin.png" width="30px"></a> &nbsp; <a href="https://violetta.gold"><img src="https://github.com/violettagoldman/violettagoldman/blob/main/icons/web.png" width="30px"></a>; or by mail contact@violetta.gold
+Contact me: <a href="https://www.linkedin.com/in/violettagoldman/"><img src="https://github.com/violettagoldman/violettagoldman/blob/main/icons/linkedin.png" width="20px"></a> &nbsp; <a href="https://violetta.gold"><img src="https://github.com/violettagoldman/violettagoldman/blob/main/icons/web.png" width="20px"></a> or by mail contact@violetta.gold
