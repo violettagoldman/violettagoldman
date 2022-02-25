@@ -2,19 +2,17 @@
 
 ## My name is **Violetta Goldman** and I live in **Paris** 🇫🇷
 
-I study at **42** (vgoldman) and **Sorbonne University** (3rd year) 👩🏼‍🎓
+I study at **42** (vgoldman) and **Sorbonne University** 👩🏼‍🎓
 
-Currently I'm doing my apprenticeship at **MoneyTrack** as a **software engineer** 👩🏼‍💻
 
 I'm keen on cybersecurity, software developement and coffee brewing ☕️
 
 My technical skills:
 
-* Programming: C, C++, Java, Python, Dart, OCaml, shell scripting
-* Web: NodeJS, JS, VueJS, PHP, SQL, UX, UI, CSS, HTML
+* Programming: C, C++, Java, Python, Dart
 * Mobile: Flutter
 * DevOps: Docker, Kubernetes, Minikube
-* Algorithmics, Data Structures, Network science, Crypthography, Blockchain
+* Blockchain
 
 I speak English 🇬🇧, French 🇫🇷, Russian 🇷🇺, German 🇩🇪, Italian 🇮🇹, and Spanish 🇪🇸
 
