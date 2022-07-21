@@ -6,7 +6,7 @@ I'm building <a href="https://capsa.finance/"> capsa 🏦</a>
 
 I am **42** (vgoldman) and **Sorbonne University** alumnus 👩🏼‍🎓
 
-I'm keen on DeFi, cybersecurity, Product Design and coffee brewing ☕️
+I'm keen on DeFi, Cybersecurity, Product Design and Coffee Brewing ☕️
 
 My technical skills:
 
