@@ -1,18 +1,19 @@
 # Hello World!
 
-## My name is **Violetta Goldman** and I live in **Paris** 🇫🇷
+## My name is **Violetta Goldman** and I am based in **Paris** 🇫🇷
 
-I study at **42** (vgoldman) and **Sorbonne University** 👩🏼‍🎓
+I'm building <a href="https://capsa.finance/"> capsa 🏦</a>
 
+I am **42** (vgoldman) and **Sorbonne University** alumnus 👩🏼‍🎓
 
-I'm keen on cybersecurity, software developement and coffee brewing ☕️
+I'm keen on DeFi, cybersecurity, Product Design and coffee brewing ☕️
 
 My technical skills:
 
 * Programming: C, C++, Java, Python, Dart
 * Mobile: Flutter
 * DevOps: Docker, Kubernetes, Minikube
-* Blockchain
+* Web: React, Vue, Node.js
 
 I speak English 🇬🇧, French 🇫🇷, Russian 🇷🇺, German 🇩🇪, Italian 🇮🇹, and Spanish 🇪🇸
 
