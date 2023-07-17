@@ -2,7 +2,6 @@
 
 ## My name is **Violetta Goldman** and I am based in **Paris** 🇫🇷
 
-I'm building <a href="https://capsa.finance/"> capsa 🏦</a>
 
 I am **42** (vgoldman) and **Sorbonne University** alumnus 👩🏼‍🎓
 
