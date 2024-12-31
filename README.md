@@ -5,14 +5,14 @@
 
 I am **42** (vgoldman) and **Sorbonne University** alumnus 👩🏼‍🎓
 
-I'm keen on DeFi, Cybersecurity, Product Design and Coffee Brewing ☕️
+I'm keen on Product Design and Coffee Brewing ☕️
 
 My technical skills:
 
 * Programming: C, C++, Java, Python, Dart
 * Mobile: Flutter
-* DevOps: Docker, Kubernetes, Minikube
-* Web: React, Vue, Node.js
+* DevOps: Docker
+* Web: Vue, Node.js
 
 I speak English 🇬🇧, French 🇫🇷, Russian 🇷🇺, German 🇩🇪, Italian 🇮🇹, and Spanish 🇪🇸
 
